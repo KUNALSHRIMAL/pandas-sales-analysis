@@ -1,0 +1,11 @@
+Order_ID,Order_Date,Product,City,Quantity,Revenue
+301,2023-03-01,Laptop,Delhi,2,140000
+302,2023-03-02,Mouse,Mumbai,5,3500
+303,2023-03-03,Keyboard,Delhi,3,4500
+304,2023-03-04,Monitor,Chennai,1,12000
+305,2023-03-05,Mouse,Delhi,2,2800
+306,2023-03-06,Monitor,Chennai,1,13000
+307,2023-03-07,Laptop,Mumbai,1,70000
+308,2023-03-08,Keyboard,Delhi,4,6000
+309,2023-03-09,Mouse,Bangalore,2,1600
+310,2023-03-10,Laptop,Mumbai,1,70000
